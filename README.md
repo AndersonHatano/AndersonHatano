@@ -1,4 +1,4 @@
-### Anderson Hatano, prazer. Seja bem vindo. Aqui é o meu espaço onde deixo meus projetos pessoais e alguns arquivos de consulta.
+### Anderson Hatano, prazer. Seja bem vindo. Aqui é o meu espaço onde deixo meus projetos pessoais e alguns arquivos de consulta.😄😄
 
 <!--
 **AndersonHatano/AndersonHatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
